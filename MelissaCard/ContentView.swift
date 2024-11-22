@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         ZStack {
-            Color(red: 0.09, green: 0.63, blue: 0.52)
+            Color(red: 0.16, green: 0.50, blue: 0.73)
                 .edgesIgnoringSafeArea(.all)
             VStack {
                 Image("Melissa")
